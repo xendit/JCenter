@@ -1,4 +1,5 @@
 # JCenter
+This repo is used for hosting files required to push update to bintray for Android SDK
 
 ## Ownership
 
