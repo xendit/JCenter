@@ -41,7 +41,7 @@ bintray {
     pkg {
         repo = bintrayRepo
         name = bintrayName
-	    userOrg = "xendit"
+        userOrg = "xendit"
         desc = libraryDescription
         websiteUrl = siteUrl
         vcsUrl = gitUrl
