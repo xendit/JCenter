@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: jcenter
+  description: jcenter
+  x-cortex-git:
+    github:
+      repository: xendit/jcenter
+  x-cortex-tag: jcenter
+  x-cortex-owners:
+  - type: GROUP
+    name: xendit/tpi-dev
